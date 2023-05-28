@@ -1,6 +1,6 @@
 from utils import *
 
-FILE_URL = "../json_files/operations.json"
+FILE_URL = "../operations.json"
 
 
 def main():

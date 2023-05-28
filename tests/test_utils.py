@@ -1,8 +1,8 @@
 import src.operation
 from src.utils import *
 
-FILE_URL_GENERAL = "C:/bank/json_files/operations.json"
-FILE_URL_TEST = "C:/bank/json_files/test.json"
+FILE_URL_GENERAL = "C:/bank_oper/operations.json"
+FILE_URL_TEST = "C:/bank_oper/test.json"
 
 
 def test_load_file():
