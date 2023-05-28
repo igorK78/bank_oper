@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bank"
+name = "bank_oper"
 version = "0.1.0"
 description = "The feature that show last 5 executed operations"
 authors = ["IgorK78 <i.kolegov78@dmail.com>"]
