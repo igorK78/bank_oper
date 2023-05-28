@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "bank"
+name = "bank_oper"
 version = "0.1.0"
 description = "The feature that show last 5 executed operations"
-authors = ["Dmitry <dima.captan@yandex.ru>"]
+authors = ["IgorK78 <i.kolegov78@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
